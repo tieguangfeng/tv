@@ -224,16 +224,6 @@
 			"ext": "http://45.125.46.61/box/json/%E7%A3%81%E5%8A%9B.json"
 		},
 		{
-			"key": "AliPS",
-			"name": "📀盘搜",
-			"type": 3,
-			"api": "csp_AliPS",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		},
-		{
 			"key": "FindZY",
 			"name": "🔍找资源",
 			"type": 3,
